@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+xseer/__init__.py
+xseer/seer.py
+xseer/xseer.h5
+xseer.egg-info/PKG-INFO
+xseer.egg-info/SOURCES.txt
+xseer.egg-info/dependency_links.txt
+xseer.egg-info/requires.txt
+xseer.egg-info/top_level.txt

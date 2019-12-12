@@ -1,0 +1,2 @@
+recursive-include xseer *.py
+recursive-include xseer *.h5

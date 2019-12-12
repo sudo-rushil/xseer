@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: xseer
+Version: 0.8
+Summary: Extremely fast denoising of stellar spectra using deep learning
+Home-page: https://github.com/sudo-rushil/xseer
+Author: Rushil Mallarapu
+Author-email: rushil.mallarapu@gmail.com
+License: MIT
+Download-URL: https://github.com/sudo-rushil/xseer/archive/v0.8.tar.gz
+Description: # XSeer
+        
+        Deep learning for fast, accurate denoising of astronomical spectra.
+        
+        # Overview
+        
+        ## Requirements
+        
+        XSeer is designed for use with Python 3 only. It has three requirements:
+        
+         - Tensorflow 2.x
+         - Astropy
+         - Numpy
+        
+        # TODO:
+        
+         - Two functions
+          - rewrite fits/write new fits
+          - display plot
+        
+Keywords: astronomy,python,astropy,seer,exoplanets,spectra,star
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown

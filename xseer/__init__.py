@@ -1,1 +1,1 @@
-from xseer.seer import test, Seer
+from xseer.seer import Seer
