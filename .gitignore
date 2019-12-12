@@ -1,3 +1,5 @@
 data/
 .DS_Store
 *.npy.gz
+.ipynb_checkpoints/xseer_model-checkpoint.ipynb
+xseer_model.ipynb
